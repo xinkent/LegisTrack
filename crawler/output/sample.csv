@@ -1,0 +1,175 @@
+bill_id,bill_type,submit_diet_no,bill_no,bill_subject,status,submit_person,submit_parties,representatives_accept_date,representatives_finish_date,representatives_deliveration_result,councilors_accept_date,councilors_finish_date,councilors_deliveration_result,promulgation_date,body_link
+0,衆法,207,2,揮発油等の価格の高騰から国民生活及び国民経済を守るための東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律及び地方税法の一部を改正する等の法律案,衆議院で審議中,足立　康史君外二名,日本維新の会; 国民民主党・無所属クラブ,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20705002.htm
+1,衆法,207,3,現下の揮発油等の価格の高騰から国民生活及び国民経済を守るための揮発油税等に関する法律の臨時特例等に関する法律案,衆議院で審議中,末松　義規君外六名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20705003.htm
+2,衆法,207,9,自衛隊法及び海上保安庁法の一部を改正する法律案,衆議院で審議中,前原　誠司君外二名,日本維新の会; 国民民主党・無所属クラブ,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20705009.htm
+3,衆法,207,10,新型コロナウイルス感染症等の影響を受けた低所得者に対する特別給付金の支給に関する法律案,衆議院で審議中,中谷　一馬君外十三名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20705010.htm
+4,衆法,207,11,領域等の警備及び海上保安体制の強化に関する法律案,衆議院で審議中,篠原　豪君外十四名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20705011.htm
+5,衆法,208,3,新型コロナウイルス感染症等の影響を受けている中小事業者等に対する緊急の支援に関する法律案,衆議院で審議中,山岡　達丸君外九名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805003.htm
+6,衆法,208,6,新型コロナウイルス感染症等の影響を受けている観光関連事業者に対する緊急の支援に関する法律案,衆議院で審議中,小宮山　泰子君外七名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805006.htm
+7,衆法,208,17,日本放送協会改革推進法案,衆議院で審議中,中司　宏君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805017.htm
+8,衆法,208,18,特定土砂等の管理に関する法律案,衆議院で審議中,足立　康史君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805018.htm
+9,衆法,208,19,土砂等の置場の確保に関する法律案,衆議院で審議中,足立　康史君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805019.htm
+10,衆法,208,22,戦争等避難者に係る出入国管理及び難民認定法の特例等に関する法律案,衆議院で審議中,鈴木　庸介君外五名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805022.htm
+11,衆法,208,23,所得税法等の一部を改正する法律の一部を改正する法律案,衆議院で審議中,末松　義規君外九名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805023.htm
+12,衆法,208,24,新型コロナウイルス感染症等の影響を受けている中小事業者に対する金融の円滑化の促進に関する法律案,衆議院で審議中,落合　貴之君外九名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805024.htm
+13,衆法,208,28,保育等従業者の人材確保のための処遇の改善等に関する特別措置法案,衆議院で審議中,岡本　あき子君外十二名,立憲民主党・無所属; 国民民主党・無所属クラブ,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805028.htm
+14,衆法,208,30,介護・障害福祉従事者の人材確保に関する特別措置法案,撤回,早稲田　ゆき君外十六名,立憲民主党・無所属,,2024-04-10,撤回許可,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805030.htm
+15,衆法,208,32,現下の物価の高騰による国民生活及び国民経済への悪影響を緩和するために講ずべき国民負担の軽減等に関する措置に関する法律案,衆議院で審議中,足立　康史君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805032.htm
+16,衆法,208,34,日本国憲法の改正手続に関する法律の一部を改正する法律案,衆議院で審議中,逢沢　一郎君外三名,自由民主党; 日本維新の会; 公明党; 有志の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805034.htm
+17,衆法,208,35,自動車産業における脱炭素化の推進に関する法律案,衆議院で審議中,重徳　和彦君外十五名,立憲民主党・無所属; 国民民主党・無所属クラブ; 有志の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805035.htm
+18,衆法,208,36,インターネット誹謗中傷対策の推進に関する法律案,衆議院で審議中,岩谷　良平君外四名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805036.htm
+19,衆法,208,39,公職選挙法及び地方自治法の一部を改正する法律案,衆議院で審議中,落合　貴之君外四名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805039.htm
+20,衆法,208,40,公職の候補者となる労働者の雇用の継続の確保のための立候補休暇に関する法律案,衆議院で審議中,落合　貴之君外六名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805040.htm
+21,衆法,208,44,国有林野事業に従事する職員の労働関係を円滑に調整するための行政執行法人の労働関係に関する法律の一部を改正する法律案,衆議院で審議中,金子　恵美君外四名,立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; 有志の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805044.htm
+22,衆法,208,45,国有林野事業に従事する職員の給与等に関する特例法案,衆議院で審議中,金子　恵美君外四名,立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; 有志の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805045.htm
+23,衆法,208,46,中小企業正規労働者雇入臨時助成金の支給に関する法律案,衆議院で審議中,後藤　祐一君外八名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805046.htm
+24,衆法,208,47,地方自治法の一部を改正する法律案,衆議院で審議中,中司　宏君外四名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805047.htm
+25,衆法,208,48,政治資金規正法及び租税特別措置法の一部を改正する法律案,衆議院で審議中,落合　貴之君外四名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805048.htm
+26,衆法,208,49,政治資金規正法の一部を改正する法律案,衆議院で審議中,落合　貴之君外四名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805049.htm
+27,衆法,208,52,国家賠償法の一部を改正する法律案,衆議院で審議中,階　猛君外五名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805052.htm
+28,衆法,208,53,民法の一部を改正する法律案,衆議院で審議中,枝野　幸男君外十一名,立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805053.htm
+29,衆法,208,54,性暴力被害者の支援に関する法律案,衆議院で審議中,阿部　知子君外十一名,立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805054.htm
+30,衆法,208,55,性的指向又は性自認を理由とする差別の解消等の推進に関する法律案,衆議院で審議中,大河原　まさこ君外十名,立憲民主党・無所属; 国民民主党・無所属クラブ; 日本共産党; れいわ新選組,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805055.htm
+31,衆法,208,56,分散型エネルギー利用の促進に関する法律案,衆議院で審議中,山崎　誠君外六名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805056.htm
+32,衆法,208,57,国等によるその設置する施設の省エネルギー・再生可能エネルギー源利用改修等の実施等に関する法律案,衆議院で審議中,田嶋　要君外五名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805057.htm
+33,衆法,208,58,多文化共生社会基本法案,衆議院で審議中,中川　正春君外六名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805058.htm
+34,衆法,208,59,消費税の減税その他の税制の見直しに関する法律案,衆議院で審議中,小川　淳也君外七名,立憲民主党・無所属; 日本共産党; れいわ新選組,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805059.htm
+35,衆法,208,60,特定人権侵害行為への対処に関する法律案,衆議院で審議中,松原　仁君外五名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g20805060.htm
+36,衆法,210,1,国会法の一部を改正する法律案,衆議院で審議中,笠　浩史君外七名,立憲民主党・無所属; 日本維新の会; 日本共産党; 有志の会; れいわ新選組,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21005001.htm
+37,衆法,210,2,国葬儀法案,衆議院で審議中,青柳　仁士君外三名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21005002.htm
+38,衆法,210,3,通園バスの車内における幼児等の置き去りによる事故の防止その他の認定こども園等における幼児等の安全の確保のための措置等に関する法律案,衆議院で審議中,青柳　仁士君外九名,立憲民主党・無所属; 日本維新の会; 日本共産党,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21005003.htm
+39,衆法,210,6,新型インフルエンザ等治療用特定医薬品の指定及び使用に関する特別措置法案,衆議院で審議中,早稲田　ゆき君外八名,立憲民主党・無所属; 日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21005006.htm
+40,衆法,210,7,防衛省の職員の給与等に関する法律の一部を改正する法律案,衆議院で審議中,三木　圭恵君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21005007.htm
+41,衆法,210,8,防衛省の職員の給与等に関する法律の一部を改正する法律案,衆議院で審議中,三木　圭恵君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21005008.htm
+42,衆法,210,11,障害者の日常生活及び社会生活を総合的に支援するための法律の一部を改正する法律案,衆議院で審議中,道下　大樹君外十名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21005011.htm
+43,衆法,210,13,国会議員の歳費、旅費及び手当等に関する法律等の一部を改正する法律案,衆議院で審議中,渡辺　周君外十一名,立憲民主党・無所属; 日本維新の会; 国民民主党・無所属クラブ,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21005013.htm
+44,衆法,210,14,性をめぐる個人の尊厳が重んぜられる社会の形成に資するために性行為映像制作物への出演に係る被害の防止を図り及び出演者の救済に資するための出演契約等に関する特則等に関する法律の一部を改正する法律案,衆議院で審議中,堀場　幸子君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21005014.htm
+45,衆法,210,18,子育て・若者緊急支援法案,衆議院で審議中,青柳　仁士君外八名,立憲民主党・無所属; 日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21005018.htm
+46,衆法,211,1,日本銀行法の一部を改正する法律案,衆議院で審議中,青柳　仁士君外三名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105001.htm
+47,衆法,211,2,児童手当法の一部を改正する法律案,衆議院で審議中,早稲田　ゆき君外十名,立憲民主党・無所属; 日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105002.htm
+48,衆法,211,3,民法の一部を改正する法律案,衆議院で審議中,大河原　まさこ君外五名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105003.htm
+49,衆法,211,4,副首都機能の整備の推進に関する法律案,衆議院で審議中,中司　宏君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105004.htm
+50,衆法,211,5,低所得である子育て世帯に対する緊急の支援に関する法律案,衆議院で審議中,中谷　一馬君外十一名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105005.htm
+51,衆法,211,7,特定教育・保育施設における保育教諭等の配置の充実のための措置に関する法律案,衆議院で審議中,浦野　靖人君外九名,立憲民主党・無所属; 日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105007.htm
+52,衆法,211,8,短時間労働者及び有期雇用労働者の雇用管理の改善等に関する法律等の一部を改正する法律案,衆議院で審議中,西村　智奈美君外十名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105008.htm
+53,衆法,211,9,発電に関する原子力の利用に係る責任を明確化するための改革の推進に関する法律案,衆議院で審議中,小野　泰輔君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105009.htm
+54,衆法,211,10,電力の取引における公正な競争の促進に関する法律案,衆議院で審議中,小野　泰輔君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105010.htm
+55,衆法,211,11,学校給食法の一部を改正する法律案,衆議院で審議中,菊田　真紀子君外九名,立憲民主党・無所属; 日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105011.htm
+56,衆法,211,15,児童虐待の防止等に関する法律の一部を改正する法律案,衆議院で審議中,菊田　真紀子君外十一名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105015.htm
+57,衆法,211,22,公立学校働き方改革の推進に関する法律案,衆議院で審議中,城井　崇君外十名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105022.htm
+58,衆法,211,23,インターネット投票の導入の推進に関する法律案,衆議院で審議中,落合　貴之君外十四名,立憲民主党・無所属; 日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105023.htm
+59,衆法,211,27,国会議員の秘書の給与等に関する法律の一部を改正する法律案,衆議院で審議中,守島　正君外三名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105027.htm
+60,衆法,211,28,国家公務員法の一部を改正する法律案,衆議院で審議中,守島　正君外十四名,立憲民主党・無所属; 日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105028.htm
+61,衆法,211,29,消費税の逆進性を緩和するための給付付き税額控除の導入等に関する法律案,衆議院で審議中,階　猛君外八名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105029.htm
+62,衆法,211,30,持続可能な開発の目標の達成に向けた諸施策の総合的かつ一体的な推進に関する法律案,衆議院で審議中,櫻井　周君外五名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105030.htm
+63,衆法,211,31,公文書等の管理に関する法律の一部を改正する法律案,衆議院で審議中,源馬　謙太郎君外十五名,立憲民主党・無所属; 日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105031.htm
+64,衆法,211,32,公文書等の管理の適正化の推進に関する法律案,衆議院で審議中,源馬　謙太郎君外十五名,立憲民主党・無所属; 日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105032.htm
+65,衆法,211,33,新型コロナウイルス感染症の罹患後症状に係る対策の推進に関する法律案,衆議院で審議中,小川　淳也君外九名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105033.htm
+66,衆法,211,34,新型コロナウイルス感染症に係る予防接種による健康被害の救済等に係る措置に関する法律案,衆議院で審議中,早稲田　ゆき君外九名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105034.htm
+67,衆法,211,35,宗教法人法の一部を改正する法律案,衆議院で審議中,堀場　幸子君外三名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105035.htm
+68,衆法,211,36,一般社団法人及び一般財団法人に関する法律の一部を改正する法律案,衆議院で審議中,堀場　幸子君外三名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105036.htm
+69,衆法,211,37,公益法人等に対する寄附を促進するための税制上の措置等に関する法律案,衆議院で審議中,住吉　寛紀君外三名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105037.htm
+70,衆法,211,38,財政法の一部を改正する法律案,衆議院で審議中,階　猛君外六名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105038.htm
+71,衆法,211,39,我が国の経済及び財政等に関する将来の推計を信頼性のある統計等の情報に基づき中立公正に実施するための経済財政等将来推計委員会の設置に関する法律案,衆議院で審議中,階　猛君外六名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105039.htm
+72,衆法,211,40,国会法の一部を改正する法律案,衆議院で審議中,階　猛君外六名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105040.htm
+73,衆法,211,41,保護者等による自動車内への子ども等の置き去りの防止に関する法律案,衆議院で審議中,吉田　統彦君外十一名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105041.htm
+74,衆法,211,42,国家公務員法等の一部を改正する法律案,衆議院で審議中,大島　敦君外十六名,立憲民主党・無所属; 国民民主党・無所属クラブ,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105042.htm
+75,衆法,211,43,国家公務員の労働関係に関する法律案,衆議院で審議中,大島　敦君外十六名,立憲民主党・無所属; 国民民主党・無所属クラブ,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105043.htm
+76,衆法,211,44,公務員庁設置法案,衆議院で審議中,大島　敦君外十六名,立憲民主党・無所属; 国民民主党・無所属クラブ,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105044.htm
+77,衆法,211,45,地方公務員法等の一部を改正する法律案,衆議院で審議中,大島　敦君外十六名,立憲民主党・無所属; 国民民主党・無所属クラブ,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105045.htm
+78,衆法,211,46,地方公務員の労働関係に関する法律案,衆議院で審議中,大島　敦君外十六名,立憲民主党・無所属; 国民民主党・無所属クラブ,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105046.htm
+79,衆法,211,47,我が国の総合的な安全保障の確保を図るための土地等の取得、利用及び管理の規制に関する施策の推進に関する法律案,衆議院で審議中,青柳　仁士君外三名,日本維新の会; 国民民主党・無所属クラブ,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105047.htm
+80,衆法,211,48,国会法の一部を改正する法律案,衆議院で審議中,古川　元久君外五名,日本維新の会; 国民民主党・無所属クラブ; 有志の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105048.htm
+81,衆法,211,49,新型コロナウイルス感染症対策検証委員会法案,衆議院で審議中,古川　元久君外四名,日本維新の会; 国民民主党・無所属クラブ; 有志の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105049.htm
+82,衆法,211,50,国会議員の歳費、旅費及び手当等に関する法律の一部を改正する法律案,衆議院で審議中,中司　宏君外三名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21105050.htm
+83,衆法,212,2,国会議員の秘書の給与等に関する法律の一部を改正する法律案,衆議院で審議中,中司　宏君外一名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205002.htm
+84,衆法,212,3,地方自治法の一部を改正する法律案,衆議院で審議中,中司　宏君外一名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205003.htm
+85,衆法,212,5,行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部を改正する法律案,衆議院で審議中,早稲田　ゆき君外十名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205005.htm
+86,衆法,212,6,政治資金規正法の一部を改正する法律案,衆議院で審議中,落合　貴之君外三名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205006.htm
+87,衆法,212,7,児童扶養手当法の一部を改正する法律案,衆議院で審議中,菊田　真紀子君外十一名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205007.htm
+88,衆法,212,8,選挙等改革の推進に関する法律案,衆議院で審議中,守島　正君外二名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205008.htm
+89,衆法,212,13,特定遊興飲食高額債務問題対策の推進に関する法律案,衆議院で審議中,吉田　はるみ君外十四名,立憲民主党・無所属,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205013.htm
+90,衆法,212,14,インターネット誹謗中傷による被害の救済に資するための弁護士等の報酬の補助に関する法律案,衆議院で審議中,岩谷　良平君外一名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205014.htm
+91,衆法,212,15,特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律の一部を改正する法律案,衆議院で審議中,岩谷　良平君外一名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205015.htm
+92,衆法,212,16,放送法の一部を改正する法律案,衆議院で審議中,岩谷　良平君外一名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205016.htm
+93,衆法,212,17,国会法の一部を改正する法律案,衆議院で審議中,遠藤　敬君外五名,日本維新の会; 国民民主党・無所属クラブ; 有志の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205017.htm
+94,衆法,212,18,執行職職員給与制度改革推進法案,衆議院で審議中,青柳　仁士君外一名,日本維新の会,,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21205018.htm
+95,衆法,213,1,被災者生活再建支援法の一部を改正する法律案,衆議院で審議中,近藤　和也君外八名,立憲民主党・無所属; 日本維新の会・教育無償化を実現する会; 国民民主党・無所属クラブ,,,,2024-01-29,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21305001.htm
+96,衆法,213,2,就労支援給付制度の導入に関する法律案,衆議院で審議中,階　猛君外五名,立憲民主党・無所属,,,,2024-02-22,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21305002.htm
+97,衆法,213,3,令和六年度出産・子育て応援給付金に係る差押禁止等に関する法律案,成立,地域活性化・こども政策・デジタル社会形成に関する特別委員長,,,,,2024-03-14,2024-03-29,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21305003.htm
+98,衆法,213,4,旧優生保護法に基づく優生手術等を受けた者に対する一時金の支給等に関する法律の一部を改正する法律案,成立,地域活性化・こども政策・デジタル社会形成に関する特別委員長,,,,,2024-03-14,2024-03-29,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21305004.htm
+99,衆法,213,5,令和六年能登半島地震災害に係る住宅再建支援等給付金に係る差押禁止等に関する法律案,成立,厚生労働委員長,,,,,2024-03-28,2024-04-02,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21305005.htm
+100,衆法,213,6,訪問介護事業者に対する緊急の支援に関する法律案,衆議院で審議中,柚木　道義君外八名,立憲民主党・無所属,,,,2024-04-10,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21305006.htm
+101,衆法,213,7,介護・障害福祉従事者の人材確保に関する特別措置法案,衆議院で審議中,柚木　道義君外八名,立憲民主党・無所属,,,,2024-04-10,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21305007.htm
+102,衆法,213,8,有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法の一部を改正する法律案,衆議院で審議中,野間　健君外七名,立憲民主党・無所属,,,,2024-04-15,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21305008.htm
+103,衆法,213,9,サイバー安全保障態勢の整備の推進に関する法律案,衆議院で審議中,堀場　幸子君外二名,日本維新の会・教育無償化を実現する会,,,,2024-04-25,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21305009.htm
+104,衆法,213,10,外国人一般労働者雇用制度の整備の推進に関する法律案,衆議院で審議中,階　猛君外九名,立憲民主党・無所属,,,,2024-04-26,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21305010.htm
+105,参法,213,1,政治資金規正法の一部を改正する法律案,参議院で審議中,井上　哲士君,,2024-01-30,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21306001.htm
+106,参法,213,2,政党助成法を廃止する法律案,参議院で審議中,井上　哲士君,,2024-01-30,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21306002.htm
+107,参法,213,3,電気料金の高騰に対する当分の間の措置として電気の使用者に対して再生可能エネルギー電気に係る賦課金の請求が行われないようにするために講ずべき措置等に関する法律案,参議院で審議中,大塚　耕平君,,2024-03-28,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21306003.htm
+108,参法,213,4,財政法の一部を改正する法律案,参議院で審議中,大塚　耕平君,,2024-03-28,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21306004.htm
+109,参法,213,5,揮発油価格高騰時における揮発油税等税率特例停止措置の実施並びに揮発油税等税率特例の廃止及び脱炭素社会の実現等に資する税制の構築のための措置に関する法律案,参議院で審議中,浜口　誠君,,2024-04-02,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21306005.htm
+110,参法,213,6,育児・介護二重負担者の支援に関する施策の推進に関する法律案,参議院で審議中,伊藤　孝恵君,,2024-04-12,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21306006.htm
+111,参法,213,7,サイバー安全保障を確保するための能動的サイバー防御等に係る態勢の整備の推進に関する法律案,参議院で審議中,浜口　誠君,,2024-04-26,,,,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/
+112,閣法,213,1,所得税法等の一部を改正する法律案,成立,内閣,,,2024-03-02,可決,2024-02-02,2024-03-28,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309001.htm
+113,閣法,213,2,地方税法等の一部を改正する法律案,成立,内閣,,,2024-03-02,可決,2024-02-06,2024-03-28,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309002.htm
+114,閣法,213,3,地方交付税法等の一部を改正する法律案,成立,内閣,,,2024-03-02,可決,2024-02-06,2024-03-28,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309003.htm
+115,閣法,213,4,関税定率法等の一部を改正する法律案,成立,内閣,,,2024-03-15,可決,2024-02-06,2024-03-29,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309004.htm
+116,閣法,213,5,国際通貨基金及び国際復興開発銀行への加盟に伴う措置に関する法律の一部を改正する法律案,成立,内閣,,,2024-04-03,可決,2024-02-06,2024-04-11,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309005.htm
+117,閣法,213,6,在外公館の名称及び位置並びに在外公館に勤務する外務公務員の給与に関する法律の一部を改正する法律案,成立,内閣,,,2024-03-15,可決,2024-02-09,2024-03-27,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309006.htm
+118,閣法,213,7,二千二十七年国際園芸博覧会政府委員の設置に関する臨時措置法案,成立,内閣,,,2024-03-22,可決,2024-02-09,2024-03-29,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309007.htm
+119,閣法,213,8,国家公務員等の旅費に関する法律の一部を改正する法律案,成立,内閣,,,2024-04-09,可決,2024-02-09,2024-04-25,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309008.htm
+120,閣法,213,9,生活困窮者自立支援法等の一部を改正する法律案,成立,内閣,,,2024-03-27,修正,2024-02-09,2024-04-16,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309009.htm
+121,閣法,213,10,雇用保険法等の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-10,可決,2024-02-09,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309010.htm
+122,閣法,213,11,奄美群島振興開発特別措置法及び小笠原諸島振興開発特別措置法の一部を改正する法律案,成立,内閣,,,2024-03-15,可決,2024-02-09,2024-03-29,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309011.htm
+123,閣法,213,12,広域的地域活性化のための基盤整備に関する法律の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-19,可決,2024-02-09,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309012.htm
+124,閣法,213,13,特定防衛調達に係る国庫債務負担行為により支出すべき年限に関する特別措置法の一部を改正する法律案,成立,内閣,,,2024-03-15,可決,2024-02-09,2024-03-22,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309013.htm
+125,閣法,213,14,防衛省設置法等の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-11,可決,2024-02-09,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309014.htm
+126,閣法,213,15,裁判所職員定員法の一部を改正する法律案,成立,内閣,,,2024-03-15,可決,2024-02-13,2024-04-04,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309015.htm
+127,閣法,213,16,脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律案,参議院で審議中,内閣,,,2024-04-05,可決,2024-02-13,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309016.htm
+128,閣法,213,17,二酸化炭素の貯留事業に関する法律案,参議院で審議中,内閣,,,2024-04-05,可決,2024-02-13,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309017.htm
+129,閣法,213,18,都市緑地法等の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-02-13,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309018.htm
+130,閣法,213,19,流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律案,成立,内閣,,,2024-04-10,可決,2024-02-13,2024-04-25,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309019.htm
+131,閣法,213,20,令和六年能登半島地震災害の被災者に係る所得税法及び災害被害者に対する租税の減免、徴収猶予等に関する法律の臨時特例に関する法律案,成立,内閣,,,2024-02-16,可決,2024-02-16,2024-02-21,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309020.htm
+132,閣法,213,21,地方税法の一部を改正する法律案,成立,内閣,,,2024-02-16,可決,2024-02-16,2024-02-21,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309021.htm
+133,閣法,213,22,子ども・子育て支援法等の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-18,可決,2024-02-16,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309022.htm
+134,閣法,213,23,新たな事業の創出及び産業への投資を促進するための産業競争力強化法等の一部を改正する法律案,衆議院で審議中,内閣,,,2024-04-26,可決,2024-02-16,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309023.htm
+135,閣法,213,24,重要経済安保情報の保護及び活用に関する法律案,参議院で審議中,内閣,,,2024-04-05,修正,2024-02-27,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309024.htm
+136,閣法,213,25,経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-05,可決,2024-02-27,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309025.htm
+137,閣法,213,26,食料・農業・農村基本法の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-18,修正,2024-02-27,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309026.htm
+138,閣法,213,27,食料供給困難事態対策法案,衆議院で審議中,内閣,,,,,2024-02-27,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309027.htm
+139,閣法,213,28,食料の安定供給のための農地の確保及びその有効な利用を図るための農業振興地域の整備に関する法律等の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-02-27,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309028.htm
+140,閣法,213,29,地域再生法の一部を改正する法律案,成立,内閣,,,2024-03-26,可決,2024-03-01,2024-04-05,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309029.htm
+141,閣法,213,30,銃砲刀剣類所持等取締法の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-19,可決,2024-03-01,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309030.htm
+142,閣法,213,31,地方自治法の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-03-01,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309031.htm
+143,閣法,213,32,放送法の一部を改正する法律案,衆議院で審議中,内閣,,,2024-04-25,可決,2024-03-01,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309032.htm
+144,閣法,213,33,日本電信電話株式会社等に関する法律の一部を改正する法律案,成立,内閣,,,2024-04-04,可決,2024-03-01,2024-04-16,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309033.htm
+145,閣法,213,34,特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-18,修正,2024-03-01,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309034.htm
+146,閣法,213,35,学校教育法の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-19,可決,2024-03-01,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309035.htm
+147,閣法,213,36,消費生活用製品安全法等の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-03-01,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309036.htm
+148,閣法,213,37,風力発電設備の設置等による電波の伝搬障害を回避し電波を用いた自衛隊等の円滑かつ安全な活動を確保するための措置に関する法律案,参議院で審議中,内閣,,,2024-04-18,可決,2024-03-01,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309037.htm
+149,閣法,213,38,道路交通法の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-12,可決,2024-03-05,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309038.htm
+150,閣法,213,39,自動車の保管場所の確保等に関する法律の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-12,可決,2024-03-05,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309039.htm
+151,閣法,213,40,情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律案,衆議院で審議中,内閣,,,2024-04-25,可決,2024-03-05,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309040.htm
+152,閣法,213,41,再生医療等の安全性の確保等に関する法律及び臨床研究法の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-03-05,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309041.htm
+153,閣法,213,42,地球温暖化対策の推進に関する法律の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-03-05,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309042.htm
+154,閣法,213,43,地域における生物の多様性の増進のための活動の促進等に関する法律案,成立,内閣,,,2024-03-29,可決,2024-03-05,2024-04-11,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309043.htm
+155,閣法,213,44,公益社団法人及び公益財団法人の認定等に関する法律の一部を改正する法律案,衆議院で審議中,内閣,,2024-03-05,,,,2024-04-04,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309044.htm
+156,閣法,213,45,公益信託に関する法律案,衆議院で審議中,内閣,,2024-03-05,,,,2024-04-04,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309045.htm
+157,閣法,213,46,総合法律支援法の一部を改正する法律案,成立,内閣,,2024-03-05,2024-04-17,可決,,2024-04-11,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309046.htm
+158,閣法,213,47,民法等の一部を改正する法律案,参議院で審議中,内閣,,,2024-04-12,修正,2024-03-08,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309047.htm
+159,閣法,213,48,農業の生産性の向上のためのスマート農業技術の活用の促進に関する法律案,衆議院で審議中,内閣,,,,,2024-03-08,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309048.htm
+160,閣法,213,49,漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-03-08,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309049.htm
+161,閣法,213,50,特定農産加工業経営改善臨時措置法の一部を改正する法律案,成立,内閣,,,2024-03-21,可決,2024-03-08,2024-04-04,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309050.htm
+162,閣法,213,51,建設業法及び公共工事の入札及び契約の適正化の促進に関する法律の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-03-08,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309051.htm
+163,閣法,213,52,住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律等の一部を改正する法律案,衆議院で審議中,内閣,,2024-03-08,,,,2024-04-04,可決,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309052.htm
+164,閣法,213,53,海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-03-12,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309053.htm
+165,閣法,213,54,育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び次世代育成支援対策推進法の一部を改正する法律案,衆議院で審議中,内閣,,,2024-04-26,可決,2024-03-12,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309054.htm
+166,閣法,213,55,地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律案,衆議院で審議中,内閣,,,,,2024-03-15,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309055.htm
+167,閣法,213,56,金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律案,衆議院で審議中,内閣,,,2024-04-26,可決,2024-03-15,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309056.htm
+168,閣法,213,57,事業性融資の推進等に関する法律案,衆議院で審議中,内閣,,,,,2024-03-15,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309057.htm
+169,閣法,213,58,出入国管理及び難民認定法等の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-03-15,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309058.htm
+170,閣法,213,59,出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律案,衆議院で審議中,内閣,,,,,2024-03-15,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309059.htm
+171,閣法,213,60,資源循環の促進のための再資源化事業等の高度化に関する法律案,参議院で審議中,内閣,,,2024-04-12,可決,2024-03-15,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309060.htm
+172,閣法,213,61,学校設置者等及び民間教育保育等事業者による児童対象性暴力等の防止等のための措置に関する法律案,衆議院で審議中,内閣,,,,,2024-03-19,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/honbun/g21309061.htm
+173,閣法,213,62,スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律案,衆議院で審議中,内閣,,,,,2024-04-26,,,,https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/
