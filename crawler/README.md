@@ -2,3 +2,10 @@
 
 ## Requirements
 Python 3.11
+poetry
+
+## 実行方法
+```
+poetry install
+poetry run python main.py
+```
