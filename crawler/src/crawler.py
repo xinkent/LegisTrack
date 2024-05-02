@@ -25,7 +25,7 @@ class Crawler:
         self.__output_file_name = Crawler.OUTPUT_DIR + \
             "/bill_of_row_diet{}.csv".format(self.__diet_no)
 
-        print(self.__source_url)
+        print("対象URL: {}".format(self.__source_url))
 
     def run(self) -> None:
         print("クローリングを開始します。")

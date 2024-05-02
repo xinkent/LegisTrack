@@ -7,5 +7,5 @@ poetry
 ## 実行方法
 ```
 poetry install
-poetry run python main.py
+poetry run python src/main.py
 ```
