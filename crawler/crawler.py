@@ -14,12 +14,16 @@ class Crawler:
     SOURCE_URL = "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/"
     BILL_URL_SUFFIX = "kaiji{}.htm"
     DATETIME_PATTERN = r'^(.+)(\d+)年(\d+)月(\d+)日$'
+    OUTPUT_DIR = "./output"
 
     def __init__(self, diet_no: int) -> None:
+        self.__diet_no = diet_no
         self.__source_url = urljoin(
             Crawler.SOURCE_URL,
             Crawler.BILL_URL_SUFFIX.format(diet_no)
         )
+        self.__output_file_name = Crawler.OUTPUT_DIR + \
+            "/bill_of_row_diet{}.csv".format(self.__diet_no)
 
         print(self.__source_url)
 
@@ -121,7 +125,11 @@ class Crawler:
         return DateUtil.transform_to_western_year(wareki, int(year), int(month), int(day))
 
     def export_to_csv(self, bills: list) -> None:
-        print(bills)
         df = pd.DataFrame(bills)
-        print(df)
-        df.to_csv("./output/sample.csv", index_label="bill_id")
+        df.to_csv(
+            self.__output_file_name,
+            index_label="bill_id",
+            quoting=1,
+            escapechar="\\"
+        )
+        print("csvファイルへの書き込みが完了しました。{}".format(self.__output_file_name))
