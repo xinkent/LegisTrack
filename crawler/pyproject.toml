@@ -13,6 +13,8 @@ beautifulsoup4 = "4.12.3"
 jupyterlab = "^4.1.8"
 pandas = "2.2.2"
 tqdm = "^4.66.2"
+dbt-core = "^1.7.13"
+dbt-bigquery = "^1.7.7"
 
 
 [tool.poetry.group.dev.dependencies]
