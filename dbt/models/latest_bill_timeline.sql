@@ -96,6 +96,6 @@ FROM councilors_finished
 UNION ALL
 SELECT * 
 FROM councilors_in_progress
--- UNION ALL
--- SELECT * 
--- FROM established
+UNION ALL
+SELECT * 
+FROM established
