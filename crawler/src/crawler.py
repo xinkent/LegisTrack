@@ -95,7 +95,7 @@ class Crawler:
             elif name == "衆議院議案受理年月日":
                 progress_dict["representatives_accept_date"] = self.transform_datetime(
                     contents)
-            elif name == "衆議院審査終了年月日／衆議院審査結果":
+            elif name == "衆議院審議終了年月日／衆議院審議結果":
                 progress_dict["representatives_finish_date"] = self.transform_datetime(
                     contents.split("／")[0])
                 if len(contents) > 1:
@@ -104,13 +104,13 @@ class Crawler:
             elif name == "参議院議案受理年月日":
                 progress_dict["councilors_accept_date"] = \
                     self.transform_datetime(contents)
-            elif name == "参議院審査終了年月日／参議院審査結果":
+            elif name == "参議院審議終了年月日／参議院審議結果":
                 progress_dict["councilors_finish_date"] = \
                     self.transform_datetime(contents.split("／")[0])
                 if len(contents) > 1:
                     progress_dict["councilors_deliveration_result"] = \
                         contents.split("／")[1].strip()
-            elif name == "":
+            elif name == "公布年月日／法律番号":
                 progress_dict["promulgation_date"] = \
                     self.transform_datetime(contents.split("／")[0])
         return progress_dict
