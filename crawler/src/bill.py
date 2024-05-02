@@ -6,9 +6,10 @@ from deliveration_status import DeliverationStatus
 
 @dataclasses.dataclass(frozen=True)
 class Bill:
+    diet_no: str
     bill_type: str
     submit_diet_no: int
-    bill_no: int
+    submit_bill_no: int
     bill_subject: str
     status: DeliverationStatus
     submit_person: str
@@ -25,9 +26,10 @@ class Bill:
     @classmethod
     def from_dict(cls, d: dict):
         return Bill(
+            d.get('diet_no'),
             d.get('bill_type'),
             d.get('submit_diet_no'),
-            d.get('bill_no'),
+            d.get('submit_bill_no'),
             d.get('bill_subject'),
             d.get('status'),
             d.get('submit_person'),

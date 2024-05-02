@@ -13,7 +13,7 @@ from date_util import DateUtil
 class Crawler:
     SOURCE_URL = "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/"
     BILL_URL_SUFFIX = "kaiji{}.htm"
-    DATETIME_PATTERN = r'^(.+)(\d+)年(\d+)月(\d+)日$'
+    DATETIME_PATTERN = r'^(\D+)(\d+)年(\d+)月(\d+)日$'
     OUTPUT_DIR = "./output"
 
     def __init__(self, diet_no: int) -> None:
@@ -28,7 +28,7 @@ class Crawler:
         print("対象URL: {}".format(self.__source_url))
 
     def run(self) -> None:
-        print("クローリングを開始します。")
+        print("第{}回国会の議案情報のクローリングを開始します。".format(self.__diet_no))
         response = requests.get(self.__source_url)
         soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -58,10 +58,11 @@ class Crawler:
         # 表からデータを取得
         for tr in tqdm(trs[1:]):
             low_dict = {}
+            low_dict["diet_no"] = self.__diet_no
             low_dict["bill_type"] = bill_type
             tds = tr.find_all("td")
             low_dict["submit_diet_no"] = tds[0].text
-            low_dict["bill_no"] = tds[1].text
+            low_dict["submit_bill_no"] = tds[1].text
             low_dict["bill_subject"] = tds[2].text
             low_dict["status"] = tds[3].text
             progress_href = tds[4].find("a").get("href")
@@ -91,7 +92,7 @@ class Crawler:
                 progress_dict["submit_person"] = contents
             elif name == "議案提出会派":
                 progress_dict["submit_parties"] = contents
-            elif name == "衆議院予備審査議案受理年月日":
+            elif name == "衆議院議案受理年月日":
                 progress_dict["representatives_accept_date"] = self.transform_datetime(
                     contents)
             elif name == "衆議院審査終了年月日／衆議院審査結果":
@@ -100,7 +101,7 @@ class Crawler:
                 if len(contents) > 1:
                     progress_dict["representatives_deliveration_result"] = \
                         contents.split("／")[1].strip()
-            elif name == "参議院予備審査議案受理年月日":
+            elif name == "参議院議案受理年月日":
                 progress_dict["councilors_accept_date"] = \
                     self.transform_datetime(contents)
             elif name == "参議院審査終了年月日／参議院審査結果":
