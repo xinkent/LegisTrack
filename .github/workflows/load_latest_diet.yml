@@ -1,7 +1,20 @@
 name: load-latest-diet-to-bq
 on: [push]
 jobs:
-  check-bats-version:
+  crawling:
     runs-on: ubuntu-latest
     steps:
       - run: curl https://asia-northeast1-myproject-420013.cloudfunctions.net/legis-track-crawler
+  load:
+    runs-on: ubunts-latest
+    permissions:
+      contents: "read"
+      id-token: "write"
+    steps: 
+    - id: 'auth'
+      uses: 'google-github-actions/auth@v2'
+      with:
+          workload_identity_provider: ${{ secrets.WORKLOAD_IDENTITY_PROVIDER_ID}} 
+          service_account: "github-actions@${{ secrets.GCP_PROJECT_ID }}.iam.gserviceaccount.com"
+    - id: 'load-csv-to-bq'
+      run:  bq --location=US load --source_format=CSV --autodetect --replace=true low.bill_of_low gs://bill_of_low/bill_of_row_diet\*.csv
