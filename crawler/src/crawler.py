@@ -1,12 +1,13 @@
 import requests
 import datetime
 import re
-from tqdm import tqdm
+import os
 from typing import Optional
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup, element
 import pandas as pd
 from bill import Bill
+from cloud_storage_client import CloudStorageClient
 from date_util import DateUtil
 
 
@@ -22,8 +23,8 @@ class Crawler:
             Crawler.SOURCE_URL,
             Crawler.BILL_URL_SUFFIX.format(diet_no)
         )
-        self.__output_file_name = Crawler.OUTPUT_DIR + \
-            "/bill_of_row_diet{}.csv".format(self.__diet_no)
+        self.__output_file_name = "bill_of_row_diet{}.csv".format(self.__diet_no)
+        self.__output_file_path = Crawler.OUTPUT_DIR + self.__output_file_name 
 
         print("対象URL: {}".format(self.__source_url))
 
@@ -56,7 +57,7 @@ class Crawler:
         assert (header == ['提出回次', '番号', '議案件名', '審議状況', '経過情報', '本文情報'])
 
         # 表からデータを取得
-        for tr in tqdm(trs[1:]):
+        for tr in trs[1:]:
             low_dict = {}
             low_dict["diet_no"] = self.__diet_no
             low_dict["bill_type"] = bill_type
@@ -127,10 +128,12 @@ class Crawler:
 
     def export_to_csv(self, bills: list) -> None:
         df = pd.DataFrame(bills)
-        df.to_csv(
-            self.__output_file_name,
+
+        csv = df.to_csv(
             index_label="bill_id",
             quoting=1,
             escapechar="\\"
         )
-        print("csvファイルへの書き込みが完了しました。{}".format(self.__output_file_name))
+
+        CloudStorageClient().upload_csv(csv, self.__output_file_path)
+        print("GCSへのアップロードが完了しました。")
