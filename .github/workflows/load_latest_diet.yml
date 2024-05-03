@@ -1,0 +1,7 @@
+name: load-latest-diet-to-bq
+on: [push]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl https://asia-northeast1-myproject-420013.cloudfunctions.net/legis-track-crawler
