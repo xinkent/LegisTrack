@@ -135,5 +135,5 @@ class Crawler:
             escapechar="\\"
         )
 
-        CloudStorageClient().upload_csv(csv, self.__output_file_path)
+        CloudStorageClient().upload_csv(csv, self.__output_file_name)
         print("GCSへのアップロードが完了しました。")

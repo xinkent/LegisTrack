@@ -15,5 +15,9 @@ jobs:
         with:
             workload_identity_provider: ${{ secrets.WORKLOAD_IDENTITY_PROVIDER_ID}} 
             service_account: "${{ secrets.SERVICE_ACCOUNT }}"
+      - name: 'Set up Cloud SDK'
+        uses: 'google-github-actions/setup-gcloud@v2'
+        with:
+          version: '>= 363.0.0'
       - name: 'load-csv-to-bq'
         run:  bq --location=US load --source_format=CSV --autodetect --replace=true low.bill_of_low gs://bill_of_low/bill_of_row_diet\*.csv
