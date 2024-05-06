@@ -1,5 +1,8 @@
 name: load-latest-diet-to-bq
-on: [push]
+on:
+  schedule:
+    # 毎日 10:00 (JST) に処理を実行する。
+    - cron: '0 1 * * *'
 jobs:
   load_latest_diet_data:
     runs-on: ubuntu-latest
