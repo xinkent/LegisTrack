@@ -29,4 +29,4 @@ class CloudStorageClient:
     def upload_csv(self, contents: str, filename: str):
         bucket = self.client.get_bucket(CloudStorageClient.BUCKET_NAME)
         blob = bucket.blob(filename)
-        blob.upload_from_string(contents)
+        blob.upload_from_string(contents, if_generation_match=None)
